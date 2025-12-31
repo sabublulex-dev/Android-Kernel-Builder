@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel_xiaomi_msm8937",
       "repo": "https://github.com/console-ramoops/android_kernel_xiaomi_msm8937",
-      "branch": "fix",
+      "branch": "lineage-20.0",
       "device": "mi8937",
       "defconfig": "msm8937_defconfig"
     },
